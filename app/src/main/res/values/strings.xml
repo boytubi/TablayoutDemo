@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TablayoutDemo</string>
+    <string name="hello_blank_fragment">fragment</string>
+    <string name="fragment_first">First fragment</string>
+    <string name="fragment_second">Second fragment</string>
+    <string name="fragment_third">Third fragment</string>
 </resources>
